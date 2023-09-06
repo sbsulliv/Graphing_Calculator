@@ -143,5 +143,5 @@ while True:
 			break	
 
 	else:
-		print("\nInvalid option dumbass!\n")
+		print("\nInvalid option!\n")
 		continue
